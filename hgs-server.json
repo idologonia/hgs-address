@@ -1,6 +1,6 @@
 {
-  "server": "wss://consoles-teachers-bears-variance.trycloudflare.com",
-  "online": true,
-  "updated": 1794521779,
+  "server": null,
+  "online": false,
+  "updated": 1794521787,
   "name": "Home Game Server"
 }
