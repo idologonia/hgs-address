@@ -1,6 +1,6 @@
 {
-  "server": null,
-  "online": false,
-  "updated": 1794444755,
+  "server": "wss://choice-discussion-picked-scott.trycloudflare.com",
+  "online": true,
+  "updated": 1794444761,
   "name": "Home Game Server"
 }
