@@ -1,6 +1,6 @@
 {
-  "server": null,
-  "online": false,
-  "updated": 1794516401,
+  "server": "wss://isa-advise-grew-purpose.trycloudflare.com",
+  "online": true,
+  "updated": 1794516406,
   "name": "Home Game Server"
 }
